@@ -7,6 +7,14 @@ Daily Journal is a simple blogging website app to add daily posts and store it i
 
 This app is hosted by Heroku :   https://shrouded-brushlands-89845.herokuapp.com/
 
+Installation & Start
+
+
+Install dependencies with :
+```sh
+npm install
+```
+
 
 
 
