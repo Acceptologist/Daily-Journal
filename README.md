@@ -1,6 +1,6 @@
 # Daily-Journal
 
-Daily Journal is a simple blogging  Node.js website app to add daily posts and store it in DataBase.
+Daily Journal is a blogging  Node.js website app to add daily posts and store it in DataBase.
 
 
 ## hosted version
