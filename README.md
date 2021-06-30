@@ -24,8 +24,49 @@ Launch the application with :
 node app.js
 ```
 
-#Usage 
+## Usage 
 The app uses MongoDB to store the items.
 
+## API endpoints:
+
+### /
+
+Path | Method | Description
+---|---|---
+/ | GET | Get Home page 
+
+
+
+### /about
+
+Path | Method | Description
+---|---|---
+/about | GET |Get  About page 
+
+
+### /contact
+
+Path | Method | Description
+---|---|---
+/contact | GET |Get Contact page 
+
+
+### /posts/:postId
+
+Path | Method | Description
+---|---|---
+/posts/:postId | GET | Get page of the post with id=postId  
+
+### /compose
+
+Path | Method | Description
+---|---|---
+/compose | GET |Get compose page ( the page that responsible to add post) 
+
+### /compose
+
+Path | Method | Description
+---|---|---
+/compose | POST | send data that will be stored in the Cloud database 
 
 
