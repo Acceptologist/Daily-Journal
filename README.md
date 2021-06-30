@@ -25,7 +25,7 @@ node app.js
 ```
 
 ## Usage 
-The app uses MongoDB to store the items.
+The app uses Cloud database (MongoDB) to store  posts.
 
 ## API endpoints:
 
